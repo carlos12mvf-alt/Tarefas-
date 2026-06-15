@@ -1,0 +1,6 @@
+{
+  "name": "Simple Tasks Bliss",
+  "description": "An elegant, peaceful task management application featuring categories, sub-tasks, priority levels, stats dashboard, and a serene focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
